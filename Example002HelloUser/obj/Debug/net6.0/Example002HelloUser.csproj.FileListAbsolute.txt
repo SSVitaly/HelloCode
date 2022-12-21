@@ -1,0 +1,15 @@
+C:\Users\Юзер\Desktop\Geek Brains\GB семинары\C#\Examples\Example002HelloUser\obj\Debug\net6.0\Example002HelloUser.csproj.AssemblyReference.cache
+C:\Users\Юзер\Desktop\Geek Brains\GB семинары\C#\Examples\Example002HelloUser\obj\Debug\net6.0\Example002HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юзер\Desktop\Geek Brains\GB семинары\C#\Examples\Example002HelloUser\obj\Debug\net6.0\Example002HelloUser.AssemblyInfoInputs.cache
+C:\Users\Юзер\Desktop\Geek Brains\GB семинары\C#\Examples\Example002HelloUser\obj\Debug\net6.0\Example002HelloUser.AssemblyInfo.cs
+C:\Users\Юзер\Desktop\Geek Brains\GB семинары\C#\Examples\Example002HelloUser\obj\Debug\net6.0\Example002HelloUser.csproj.CoreCompileInputs.cache
+C:\Users\Юзер\Desktop\Geek Brains\GB семинары\C#\Examples\Example002HelloUser\bin\Debug\net6.0\Example002HelloUser.exe
+C:\Users\Юзер\Desktop\Geek Brains\GB семинары\C#\Examples\Example002HelloUser\bin\Debug\net6.0\Example002HelloUser.deps.json
+C:\Users\Юзер\Desktop\Geek Brains\GB семинары\C#\Examples\Example002HelloUser\bin\Debug\net6.0\Example002HelloUser.runtimeconfig.json
+C:\Users\Юзер\Desktop\Geek Brains\GB семинары\C#\Examples\Example002HelloUser\bin\Debug\net6.0\Example002HelloUser.dll
+C:\Users\Юзер\Desktop\Geek Brains\GB семинары\C#\Examples\Example002HelloUser\bin\Debug\net6.0\Example002HelloUser.pdb
+C:\Users\Юзер\Desktop\Geek Brains\GB семинары\C#\Examples\Example002HelloUser\obj\Debug\net6.0\Example002HelloUser.dll
+C:\Users\Юзер\Desktop\Geek Brains\GB семинары\C#\Examples\Example002HelloUser\obj\Debug\net6.0\refint\Example002HelloUser.dll
+C:\Users\Юзер\Desktop\Geek Brains\GB семинары\C#\Examples\Example002HelloUser\obj\Debug\net6.0\Example002HelloUser.pdb
+C:\Users\Юзер\Desktop\Geek Brains\GB семинары\C#\Examples\Example002HelloUser\obj\Debug\net6.0\Example002HelloUser.genruntimeconfig.cache
+C:\Users\Юзер\Desktop\Geek Brains\GB семинары\C#\Examples\Example002HelloUser\obj\Debug\net6.0\ref\Example002HelloUser.dll
